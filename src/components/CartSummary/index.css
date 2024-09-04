@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.cart-summary-heading {
+  color: black;
+}
+.cart-summary-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-end;
+}
